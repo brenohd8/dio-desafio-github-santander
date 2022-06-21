@@ -1,0 +1,4 @@
+git status - verificação se há modificação local não commitada
+git add . - adiciona todo conteúdo no bash
+git commit -m - commitar conteúdo local
+git push origin main - enviar para nuvem github
